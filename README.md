@@ -1,5 +1,5 @@
 # Sudoku-Solver
-**##Introduction**
+###**Introduction**
 <br />
 This is Sudoku Solver program written in LISP programming language.<br />
 Two algorithms are implemented - <br />
@@ -10,7 +10,7 @@ Code returns 9 x 9 solution matrix to given input puzzle, number of states expan
 If no solution is found, then program will report so displays partially solved puzzle. <br />
 Invalid puzzles are not processed.<br />
 
-**##How to run the code?**
+###**How to run the code?**
 <br />
 Put all test file, Sudoku.lisp, gcl.exe in same folder.<br />
 **Method 1** : Input puzzle given in get-board function of Sudoku.lisp<br />
